@@ -33,7 +33,24 @@ Somos una *__asociación__* amante de los animales. Fuck  ~~maltrato~~ fuck sapo
 
 
 
+## Tabla de peso en función de la edad y tipo de raza
+
+| edad | pequeño | mediano | grande |
+|-----:|:-------:|:-------:|:------:|
+|5|36|37|40|
+|10|56|60|66|
+|15|76|86|93|
+
+## Calendario de vacunación de tu perro
+
+- [x] de 6 a 8 semanas
+- [ ] de 8 a 10 semanas
+- [ ] de 12 a 14 semanas
+- [ ] de 14 a 16 semanas
+- [x] de 14 a 1
+
+
+ 
 [perro]:perro.jfif
 
-
-
+ 
